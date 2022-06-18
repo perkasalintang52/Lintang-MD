@@ -33,7 +33,7 @@ global.footer = 'urfavboy-lintang' //ubah jadi nama mu, note tanda ' gausah di h
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://instagram.com/joceylintangg'
+global.youtube = 'https://tiktok.com/@joceylintangg'
 global.ig = 'https://instagram.com/joceylintangg'
 global.mygc = 'https://tiktok.com/@joceylintangg'
 global.myweb = 'https://tiktok.com/@joceylintangg'
